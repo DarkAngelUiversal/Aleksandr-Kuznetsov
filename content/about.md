@@ -3,27 +3,32 @@ title = "About me"
 slug = "about"
 +++
 
+I'm a Python developer with experience in AI DevOps, cloud integrations, and technical support of complex IT products. Over the past 5+ years I've worked across technical support, freelance DevOps, and software development — gradually moving deeper into Python, cloud infrastructure, and AI-driven tooling.
 
+At **FiveXL** I worked on the AI DevOps product **B.O.R.I.S**, built on an agentic system using Strands Agents. I developed and improved agent tools, integrated them with GitHub, AWS, and GCP, and worked with memory, knowledge bases, and architectural caching. I also built workflows for architecture analysis, investigation scenarios, Mermaid diagram generation, cost reports, and README documentation — with parallel execution for performance. Beyond B.O.R.I.S, I contributed to open-source Terraform projects: a module for AWS EventBridge + Amazon Q integration, Microsoft Teams support in terraform-aws-sso-elevator, and dependency updates in terraform-aws-account-baseline.
 
-I am a beginner DevOps specialist and have been actively developing my skills in this field for about a year. My goal is to make DevOps the main area of my professional activity. I am particularly attracted to solving complex problems and searching for interesting solutions. I strive not only to deepen my knowledge in this area but also to become a high-class specialist in the field of DevOps. I began my journey while working in technical support for the 1C-Отчетность service, where I wrote a Telegram bot for incident logging for work purposes. Following that, I participated in a startup where I familiarized myself with AWS technologies such as Athena, S3, Lambda, and EventBridge, as well as website development using Streamlit and Terraform.
+Before that, at **Астрал-Софт** I worked as a Senior Technical Specialist on the 1C-Отчетность product — handling complex incidents, writing internal documentation, mentoring colleagues, and participating in product testing after updates.
 
-## My hobbies 
-I am passionate about games, especially RTS strategies and MOBAs, the Warhammer 40K universe, and reading manhwa and novels. 
+I'm interested in AI technologies, DevOps, and cloud infrastructure. I like tasks with clear goals and measurable outcomes: digging into problems, finding practical solutions, and bringing work to a stable result.
 
-## Games:
+## My hobbies
 
-My journey into the world of games began in 2008 with very simple games, which gradually led me to RTS strategies. I spent many days playing games like Stellaris, the Dawn of War series from the Warhammer 40K universe, Dota 2, Mount and Blade: Warband and Bannerlord, Starcraft 2, and others. Recently, I have been devoting less time to games as I am focused on my professional development. 
+I'm passionate about games, especially RTS strategies and RPGs, and I enjoy reading manhwa and novels of various genres.
+
+## Games
+
+My journey into games started in 2008 with simple titles, which gradually led me to RTS strategies. I've spent many hours in Stellaris, the Dawn of War series from the Warhammer 40K universe, Dota 2, Mount & Blade: Warband and Bannerlord, Starcraft 2, and others. These days I play less as I focus on professional growth.
 
 ![stellaris](/images/stellaris.jpg)
 
-## Warhammer 40K: 
+## Warhammer 40K
 
-It all started with the game Warhammer 40,000: Dawn of War – Soulstorm. After that, I became interested in this universe, which led me to read my first non-school book — "Horus Heresy Book I: Horus Rising." This plunged me deeper into the universe through books and YouTube videos, sparking my interest in reading. 
+It all started with Warhammer 40,000: Dawn of War – Soulstorm. That game pulled me into the universe, which led me to read my first non-school book — "Horus Heresy Book I: Horus Rising." From there it spiraled into books and YouTube deep-dives, and sparked my love of reading.
 
 ![wh40k](/images/wh40k.webp)
 
-## Manhwa/novels: 
+## Manhwa / Novels
 
-It all began when I was watching anime and read a comment: "First you watch anime, then you read manga, then novels, and next thing you know, you’re writing fanfiction." Although I do not possess a talent for writing, I read one manhwa, then another, and after the 400th, I started reading novels. Among my favorites are "Shadow Slave," "Warlock of the Magus World," "Nanomancer Reborn – I've Become A Snow Girl?", and "Реинкарнация сестер: Путь войн и спокойствия".
+It started with anime, then manhwa, then novels — the classic pipeline. After the 400th manhwa I moved on to novels. Some favorites: "Shadow Slave," "Warlock of the Magus World," "Nanomancer Reborn – I've Become A Snow Girl?", and "Реинкарнация сестер: Путь войн и спокойствия".
 
 ![Frieren](/images/Frieren.jpg)
